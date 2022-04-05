@@ -23,13 +23,13 @@ const Header = ({ setSearchField, setFilteredByGender }) => {
         <img
           onClick={handleSetFilteredByGender}
           className="search-icon"
-          src="https://cdn-icons.flaticon.com/png/512/2102/premium/2102832.png?token=exp=1648765631~hmac=b09bd8645ff5268723ac86a6ff9ffc6e"
+          src="https://cdn-icons-png.flaticon.com/512/941/941515.png"
           alt="all-babies"
         />
         <img
           onClick={handleSetFilteredByGender}
           className="search-icon"
-          src="https://cdn-icons.flaticon.com/png/512/3320/premium/3320112.png?token=exp=1648765618~hmac=956912fc57f1985cb701189b665980f0"
+          src="https://cdn-icons-png.flaticon.com/512/2641/2641644.png"
           alt="baby-girl"
         />
         <img
