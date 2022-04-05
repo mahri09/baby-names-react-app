@@ -21,11 +21,14 @@
 
 .content {
   width: 1100px;
-
   margin: 2rem;
   padding: 1.5rem;
   text-align: center;
   border-bottom: 1px solid rgb(197, 192, 192);
+}
+
+.favorite-content {
+  text-align: start;
 }
 
 .content button {
